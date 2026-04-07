@@ -1,8 +1,7 @@
 {
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
   "url": "https://github.com/NullVoxPopuli/tree-sitter-glimmer-typescript",
+  "semver": false,
+  "parser_version": "12d98944c1d5077b957cbdb90d663a7c4d50118c",
+  "location": null,
   "lang": "glimmer_typescript"
 }
